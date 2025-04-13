@@ -1,0 +1,127 @@
+/* @theme mytheme */
+@import "gaia";
+
+/* プレゼンテーション全体のスタイル */
+section {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom right, #f3f8ff 0%, #e2eeff 100%);
+    color: #2c3e50;
+    font-family:'メイリオ', 'Meiryo', sans-serif;
+    border: 14px solid #0d3a8d;
+  }
+
+/* タイトルページのスタイル */
+.title {
+  height: 40%;
+  padding-top: 10%;
+  flex-direction:row
+}
+.title h1, .title h2 { 
+  text-align: center; 
+}
+
+.info { 
+  margin-top: 1.6em;
+}
+
+/* 通常ページのスタイル */
+section:not(.title) {
+    padding: 2em;
+}
+
+/* ヘッダーとフッターのスタイル */
+header, footer {
+    color: #3d98ff;
+    font-size: 0.8em;
+    font-weight: 500;
+}
+
+/* 見出しのスタイル */
+h1 {
+    color: #1468c9;
+    font-size: 1.8em;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+    letter-spacing: -0.02em;
+}
+
+h2 {
+    color: #2c3e50;
+    font-size: 1.3em;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+    letter-spacing: -0.01em;
+}
+
+/* 章タイトルのスタイル */
+.chapter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    h1 {
+        padding: 15% 0;
+        color: rgb(58, 58, 58);
+    }
+}
+
+
+/* リストのスタイル */
+ul, ol {
+    margin-left: 1em;
+    line-height: 1.8;
+}
+
+ul li, ol li {
+    margin-bottom: 0.5em;
+}
+
+ul li::marker {
+    color: #3d98ff;
+}
+
+/* コードブロックのスタイル */
+code {
+    background-color: #f8f9fa;
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+    border: 1px solid #e9ecef;
+}
+
+/* 強調表示のスタイル */
+strong {
+    color: #3d98ff;
+    font-weight: 600;
+}
+
+/* 引用のスタイル */
+blockquote {
+    border-left: 4px solid #3d98ff;
+    padding-left: 1em;
+    margin: 1em 0;
+    color: #4a5568;
+}
+
+/* テーブルのスタイル */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+}
+
+th {
+    background-color: #3d98ff;
+    color: white;
+    padding: 0.5em;
+}
+
+td {
+    border: 1px solid #e2e8f0;
+    padding: 0.5em;
+}
+
+/* 画像のスタイル */
+img {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+} 
