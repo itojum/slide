@@ -5,12 +5,14 @@ paginate: true
 header: "Raspberry Piで快適な入浴を"
 footer: "2025-04-26 itoJum"
 
+
+
+
 ---
 
 <div class="title">
 
 # Raspberry Piで快適な入浴を
-## ~蟹風呂自動~
 </div>
 <div class="info">
 
@@ -48,6 +50,18 @@ footer: "2025-04-26 itoJum"
 
 ---
 
+# レギュレーション順守
+
+<div class="chapter">
+
+## **ハード**スキル + ソフト**ウェア**
+</div>
+
+みんなもLet's LT
+
+
+---
+
 # もくじ
 
 <div class="columns">
@@ -57,7 +71,6 @@ footer: "2025-04-26 itoJum"
   - 素材集め
   - 技術構成と実装
   - 運用してみた感想
-  - まとめ
 
   </div>
   <div>
@@ -99,8 +112,8 @@ footer: "2025-04-26 itoJum"
 
   - 水温センサー：DS18B20
   - Raspberry Pi 3, その他部品
-    - 大学の先生に借りた
-  - 段ボール(ケース用)
+  - 段ボール
+    - ケース用
   - モバイルバッテリー
 
   </div>
@@ -134,8 +147,6 @@ footer: "2025-04-26 itoJum"
 ## なでしこ
 <img src="./nadesiko.png" width="800px">
 
-(GPIOとかいじるのにプラグイン自作が必要)
-
 ---
 
 ## なでしこ
@@ -156,8 +167,8 @@ footer: "2025-04-26 itoJum"
 <div class="margin">
 
   #### Q. 水位を取得するには
-  - 距離センサー?
-  - 水位センサー?
+  - 距離センサー
+  - 水位センサー
 
 </div>
 
@@ -217,21 +228,6 @@ footer: "2025-04-26 itoJum"
   <div>
     <img src="./hako.png" width="300px">
   </div>
-</div>
-
----
-
-# まとめ
-
-- なでしこでLet's日本語プログラミング
-
-- 個人開発では初めてセンサーとかを触ったが楽しかった
-- グラフ見てるだけでもテンション⤴
-
-<div class="center">
-🦀🦀🦀
-🦀🦀🦀
-🦀🦀🦀
 </div>
 
 ---
