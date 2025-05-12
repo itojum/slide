@@ -3,7 +3,7 @@ marp: true
 theme: mytheme
 paginate: true
 header: "プレゼンテーションタイトル"
-footer: "2025-03-22 itoJum"
+footer: "xxxx-xx-xx"
 
 ---
 
@@ -14,8 +14,8 @@ footer: "2025-03-22 itoJum"
 </div>
 <div class="info">
 
-**Setory 2025-03-22**
-福プロ 伊藤潤平 / @itojum1230
+**xxxxxx xxxx-xx-xx**
+xxx xxxx / @itojum1230
 </div>
 
 ---
