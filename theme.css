@@ -39,7 +39,7 @@ header, footer {
 
 /* 見出しのスタイル */
 h1 {
-    color: #1468c9;
+    color: #2c3e50;
     font-size: 1.8em;
     font-weight: 700;
     margin-bottom: 0.5em;
@@ -124,6 +124,7 @@ td {
 img {
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
 } 
 
 .columns {
