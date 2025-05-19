@@ -7,6 +7,16 @@ footer: "2025-05-19 伊藤潤平"
 
 ---
 
+<style>
+
+.flex {
+    display: flex;
+    gap: 100px;
+}
+
+</style>
+
+
 <div class="title">
 
 # 就活体験発表会
@@ -86,7 +96,7 @@ footer: "2025-05-19 伊藤潤平"
 
 ---
 
-<div class="columns">
+<div class="flex">
   <div>
 
   ## インターン選考
