@@ -2,10 +2,12 @@
 marp: true
 theme: mytheme
 paginate: true
-header: "プレゼンテーションタイトル"
-footer: "xxxx-xx-xx"
 
 ---
+<script src="https://cdn.tailwindcss.com/3.0.16"></script>
+<script>tailwind.config = { corePlugins: { preflight: false } }</script>
+
+
 
 <div class="title">
 
@@ -22,9 +24,13 @@ xxx xxxx / @itojum1230
 
 # 目次
 
+<div class="contents">
+
 1. はじめに
 2. 本題
 3. まとめ
+
+</div>
 
 ---
 
