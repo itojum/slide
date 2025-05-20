@@ -42,7 +42,7 @@ header, footer {
 }
 
 /* 見出しのスタイル */
-h1:not(.title h1){
+h1:not(.title h1, .chapter h1){
   color: #2c3e50;
   font-size: 1.1em;
   font-weight: 700;
@@ -54,7 +54,7 @@ h1:not(.title h1){
   top: 0.5em;
 }
 
-h1:not(.title h1)::before {
+h1:not(.title h1, .chapter h1)::before {
   content: "";
   position: absolute;
   left: -2em;
