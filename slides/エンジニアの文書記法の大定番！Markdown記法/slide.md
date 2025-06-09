@@ -11,7 +11,8 @@ paginate: true
 
 <div class="title">
 
-# エンジニアの文書記法の大定番！Markdown記法
+# エンジニアの文書記法の大定番！
+# Markdown記法
 </div>
 <div class="info">
 
