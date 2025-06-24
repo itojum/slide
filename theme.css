@@ -179,3 +179,8 @@ img {
     display: flex;
     justify-content: space-between;
 }
+
+/** 文字のスタイル */
+h1, h2, h3, h4, h5, h6, p, span, li, a {
+  font-family: 'メイリオ', 'Meiryo', sans-serif;
+}
