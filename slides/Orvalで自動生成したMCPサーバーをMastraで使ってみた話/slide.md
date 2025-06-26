@@ -70,6 +70,9 @@ paginate: true
 
 </div>
 
+<img src="./hirameita-nya.png" class="absolute bottom-10 right-40 w-[150px]">
+
+
 ---
 
 <div class="chapter">
@@ -88,7 +91,15 @@ paginate: true
 
 ---
 
-# ステップ1
+<div class="chapter">
+
+# 開発の流れ
+
+</div>
+
+---
+
+# API Keyを取得
 - connpassのAPI Keyを利用申請して発行してもらいます
 - 数回メールでやり取りしたら1営業日で発行してもらえました
 
@@ -96,7 +107,7 @@ paginate: true
 
 ---
 
-# ステップ2
+# OpenAPI
 
 <div class="flex">
   <div class="flex flex-col">
@@ -111,7 +122,7 @@ paginate: true
 ---
 
 
-# ステップ3
+# 生成してみる
 
 <div class="flex">
   <div class="flex flex-col">
@@ -130,13 +141,54 @@ paginate: true
 <div class="flex">
   <img src="./mastra_error.png" class="mx-auto mt-10">
 </div>
+<img src="./hate-nya.png" class="absolute bottom-20 right-40 w-[200px]">
 
 ---
 
-# 
+# ヘッダーがない...
 
 
+<div class="mt-14">
+  <img src="./getEventsHandler.png" class="mx-auto h-[280px] mt-10">
+  <img src="./getEvents.png" class="mx-auto h-[280px] mt-10">
+</div>
+
+<img src="./sirome-nya.png" class="absolute bottom-20 right-40 w-[150px]">
 
 ---
 
+# カスタムHTTPクライアントの追加
 
+
+<div class="flex mt-14">
+  <div class="flex flex-col">
+  <img src="./custom_http_client.png" class="mx-auto w-[500px]">
+  </div>
+
+  - 認証情報を付加してみる
+  - 再度生成してみる
+
+  <img src="./work-nya.png" class="absolute bottom-20 right-40 w-[150px]">
+
+</div>
+
+---
+
+# 動いた！
+
+<div class="flex">
+  <img src="./mastra_setory.png" class="mx-auto w-[800px] mt-10">
+</div>
+
+---
+
+# おわり
+- connpass MCPサーバーを作った
+- Mastraと組み合わせていろいろ遊んでいきたい
+- 想定用途
+  1. 出張とかで東京に行く予定ができる
+  2. 私のイベント参加傾向から、
+  おすすめイベントを提案する
+  3. イベント探しが楽になる
+
+<img src="./ocha-nya.png" class="absolute bottom-20 right-40 w-[150px]">
