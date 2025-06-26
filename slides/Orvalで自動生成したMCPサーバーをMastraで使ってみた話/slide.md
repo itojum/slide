@@ -108,3 +108,35 @@ paginate: true
 
 </div>
 
+---
+
+
+# ステップ3
+
+<div class="flex">
+  <div class="flex flex-col">
+    <img src="./generate.png" alt="MCP" class="w-[500px] mt-10">
+  </div>
+
+  - orval.config.tsを書きます
+  - `orval`コマンドを実行
+
+</div>
+
+---
+
+# 403エラー
+
+<div class="flex">
+  <img src="./mastra_error.png" class="mx-auto mt-10">
+</div>
+
+---
+
+# 
+
+
+
+---
+
+
