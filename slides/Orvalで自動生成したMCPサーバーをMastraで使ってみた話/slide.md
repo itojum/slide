@@ -15,7 +15,7 @@ paginate: true
 </div>
 <div class="info">
 
-**Setory 2025-06-28**
+**エンジニア集会LT会 2025-06-28**
 いとじゅん / @itojum1230
 </div>
 
@@ -28,7 +28,6 @@ paginate: true
 
 
 - いとじゅん(@itojum1230)
-- 福プロ 元代表
 - 趣味
   - VRChat
 - 好きなテキストエディタ
@@ -49,7 +48,7 @@ paginate: true
   - Orvalとは
     - OpenAPIからWebAPIのクライアントを<br/>自動生成するライブラリ
   - MCPサーバーとは
-    - AIエージェントと外部サービス(WebAPIなど)を繋ぐサーバー(雑)
+    - AIエージェントと外部サービスをWebAPIなどで繋ぐサーバー
 
 </div>
 
@@ -66,7 +65,7 @@ paginate: true
   - Orvalとは
     - OpenAPIから<u>WebAPIのクライアント</u>を<br/>自動生成するライブラリ
   - MCPサーバーとは
-    - AIエージェントと<u>外部サービス(WebAPIなど)</u>を繋ぐサーバー(雑)
+    - AIエージェントと<u>外部サービスをWebAPIなど</u>で繋ぐサーバー
 
 </div>
 
@@ -111,11 +110,11 @@ paginate: true
 
 <div class="flex">
   <div class="flex flex-col">
-    <img src="./connpass_openapi.png" alt="MCP" class="w-[700px] mt-10">
+    <img src="./connpass_openapi.png" alt="MCP" class="w-[600px] mt-10">
   </div>
 
   - connpass APIのドキュメントを<br/>参考にOpenAPIを書きます
-  - 普段よりパラメータのdescriptionを丁寧に書きます
+  - 普段よりパラメータやエンドポイントの説明を丁寧に書きます
 
 </div>
 
@@ -182,7 +181,7 @@ paginate: true
 
 ---
 
-# おわり
+# まとめ
 - connpass MCPサーバーを作った
 - Mastraと組み合わせていろいろ遊んでいきたい
 - 想定用途
@@ -192,3 +191,11 @@ paginate: true
   3. イベント探しが楽になる
 
 <img src="./ocha-nya.png" class="absolute bottom-20 right-40 w-[150px]">
+
+---
+
+<div class="chapter">
+
+# おわり
+
+</div>
