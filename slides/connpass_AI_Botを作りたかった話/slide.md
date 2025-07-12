@@ -11,11 +11,11 @@ paginate: true
 
 <div class="title">
 
-# connpass AIボットを作りたかった
+# connpass AIボットを作りたかった話
 </div>
 <div class="info">
 
-JR中央線 Developers もくもく&LT大会！ #23 2025/7/12
+**JR中央線 Developers もくもく&LT大会！ #23 2025/7/12**
 いとじゅん / @itojum1230
 </div>
 
