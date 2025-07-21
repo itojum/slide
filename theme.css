@@ -184,3 +184,18 @@ img {
 h1, h2, h3, h4, h5, h6, p, span, li, a {
   font-family: 'メイリオ', 'Meiryo', sans-serif;
 }
+
+/** 絵文字のスタイル */
+.emoji {
+  display: inline-block;
+  width: 1.4em;
+  height: 1.4em;
+  vertical-align: middle;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.pray-nya {
+  background-image: url(https://lh3.googleusercontent.com/pw/AP1GczMjfs_8pBWozWXyQF95ZbCJCgv6Cn0eEffI28TPSimtsHyjtPZHmc6lck1VUnwN-MT2nUDVKrr4k5_8mto0SyP7KoPZUasQZ_rVkNVxjD4QHjYcYnK7QJaA8jmhwk1A45V9jIfo01SCFqzCSsvMumjZ=w128-h128-s-no-gm?authuser=0);
+}
